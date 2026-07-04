@@ -18,7 +18,7 @@
 ## 👋 About Me
 > "Turning ideas into reality through code."
 
-Hi! I'm **Priyanshu Pandey**, a passionate freelance website developer. This portfolio showcases my journey, skills, and projects. I specialize in building responsive, high-performance web applications using modern technologies.
+Hi! I'm **Ayush Kumar Pandey**, a passionate freelance website developer. This portfolio showcases my journey, skills, and projects. I specialize in building responsive, high-performance web applications using modern technologies.
 
 ## 🛠️ Tech Stack
 <div align="center">
